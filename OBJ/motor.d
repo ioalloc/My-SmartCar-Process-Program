@@ -1,0 +1,12 @@
+..\OBJ\motor.o: ..\SRC\FWLIB\MOTOR\motor.c
+..\OBJ\motor.o: ..\SRC\FWLIB\MOTOR\motor.h
+..\OBJ\motor.o: ..\SRC\FWLIB\SYS\sys.h
+..\OBJ\motor.o: ..\SRC\STARTUP\MK60DZ10.h
+..\OBJ\motor.o: D:\keil\ARM\CMSIS\Include\core_cm4.h
+..\OBJ\motor.o: D:\keil\ARM\RV31\Inc\stdint.h
+..\OBJ\motor.o: D:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\motor.o: D:\keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\motor.o: D:\keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\OBJ\motor.o: ..\SRC\STARTUP\system_MK60DZ10.h
+..\OBJ\motor.o: ..\SRC\FWLIB\FTM\ftm.h
+..\OBJ\motor.o: D:\keil\ARM\RV31\Inc\stdbool.h

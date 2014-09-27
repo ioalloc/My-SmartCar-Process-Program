@@ -1,0 +1,11 @@
+..\OBJ\key.o: ..\SRC\HARDWARE\KEY\key.c
+..\OBJ\key.o: ..\SRC\HARDWARE\KEY\key.h
+..\OBJ\key.o: ..\SRC\FWLIB\GPIO\gpio.h
+..\OBJ\key.o: ..\SRC\FWLIB\SYS\sys.h
+..\OBJ\key.o: ..\SRC\STARTUP\MK60DZ10.h
+..\OBJ\key.o: D:\keil\ARM\CMSIS\Include\core_cm4.h
+..\OBJ\key.o: D:\keil\ARM\RV31\Inc\stdint.h
+..\OBJ\key.o: D:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\key.o: D:\keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\key.o: D:\keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\OBJ\key.o: ..\SRC\STARTUP\system_MK60DZ10.h

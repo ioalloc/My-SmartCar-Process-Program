@@ -1,0 +1,42 @@
+*** Creating Trace Output File '..\OBJ\template.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\system_mk60dz10.o"'
+### List of Objects: adding '"..\obj\startup_mk60dz10.o"'
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\isr.o"'
+### List of Objects: adding '"..\obj\ccd.o"'
+### List of Objects: adding '"..\obj\motor.o"'
+### List of Objects: adding '"..\obj\encoder.o"'
+### List of Objects: adding '"..\obj\switch.o"'
+### List of Objects: adding '"..\obj\steer.o"'
+### List of Objects: adding '"..\obj\bell.o"'
+### List of Objects: adding '"..\obj\oled.o"'
+### List of Objects: adding '"..\obj\gyroscope.o"'
+### List of Objects: adding '"..\obj\outputdata.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\ftm.o"'
+### List of Objects: adding '"..\obj\gpio.o"'
+### List of Objects: adding '"..\obj\pit.o"'
+### List of Objects: adding '"..\obj\adc.o"'
+### List of Objects: adding '"..\obj\spi.o"'
+### List of Objects: adding '"..\obj\tsi.o"'
+### List of Objects: adding '"..\obj\uart.o"'
+### List of Objects: adding '"..\obj\lptm.o"'
+### List of Objects: adding '"..\obj\nrf2401.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4 "..\obj\system_mk60dz10.o" "..\obj\startup_mk60dz10.o" "..\obj\main.o" "..\obj\isr.o" "..\obj\ccd.o" "..\obj\motor.o" "..\obj\encoder.o" "..\obj\switch.o" "..\obj\steer.o" "..\obj\bell.o" "..\obj\oled.o" "..\obj\gyroscope.o" "..\obj\outputdata.o" "..\obj\sys.o" "..\obj\delay.o" "..\obj\ftm.o" "..\obj\gpio.o" "..\obj\pit.o" "..\obj\adc.o" "..\obj\spi.o" "..\obj\tsi.o" "..\obj\uart.o" "..\obj\lptm.o" "..\obj\nrf2401.o" --strict --scatter "..\OBJ\template.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\SRC\FWLIB\template.map" -o "..\OBJ\template.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\template.axf'
+### ADS-LD Command File: '..\OBJ\template.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\template.lnp', Handle=0x00000494
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\template.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

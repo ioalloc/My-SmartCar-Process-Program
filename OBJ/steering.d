@@ -1,0 +1,12 @@
+..\OBJ\steering.o: ..\SRC\FWLIB\STEERING\steering.c
+..\OBJ\steering.o: ..\SRC\FWLIB\STEERING\steering.h
+..\OBJ\steering.o: ..\SRC\FWLIB\SYS\sys.h
+..\OBJ\steering.o: ..\SRC\STARTUP\MK60DZ10.h
+..\OBJ\steering.o: D:\keil\ARM\CMSIS\Include\core_cm4.h
+..\OBJ\steering.o: D:\keil\ARM\RV31\Inc\stdint.h
+..\OBJ\steering.o: D:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\OBJ\steering.o: D:\keil\ARM\CMSIS\Include\core_cmFunc.h
+..\OBJ\steering.o: D:\keil\ARM\CMSIS\Include\core_cm4_simd.h
+..\OBJ\steering.o: ..\SRC\STARTUP\system_MK60DZ10.h
+..\OBJ\steering.o: ..\SRC\FWLIB\FTM\ftm.h
+..\OBJ\steering.o: D:\keil\ARM\RV31\Inc\stdbool.h

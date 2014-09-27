@@ -1,0 +1,4 @@
+--cpu Cortex-M4 "..\obj\system_mk60dz10.o" "..\obj\startup_mk60dz10.o" "..\obj\main.o" "..\obj\isr.o" "..\obj\ccd.o" "..\obj\motor.o" "..\obj\encoder.o" "..\obj\switch.o" "..\obj\steer.o" "..\obj\bell.o" "..\obj\oled.o" "..\obj\gyroscope.o" "..\obj\outputdata.o" "..\obj\sys.o" "..\obj\delay.o" "..\obj\ftm.o" "..\obj\gpio.o" "..\obj\pit.o" "..\obj\adc.o" "..\obj\spi.o" "..\obj\tsi.o" "..\obj\uart.o" "..\obj\lptm.o" "..\obj\nrf2401.o" --strict --scatter "..\OBJ\template.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\SRC\FWLIB\template.map" -o "..\OBJ\template.axf"
